@@ -10,9 +10,7 @@
 
 ### [[Paper](TBD)] 
 
-[Zhihao Chen](https://scholar.google.com/citations?user=SBoHvVQAAAAJ&hl=zh-CN), [Yiyuan Ge](https://scholar.google.com/citations?user=qKxpHGcAAAAJ&hl=zh-CN), Ziyang Wang, Jiaju Kang, Mingya Zhang
-
-
+[Zhihao Chen](https://scholar.google.com/citations?user=SBoHvVQAAAAJ&hl=zh-CN), [Yiyuan Ge](https://scholar.google.com/citations?user=qKxpHGcAAAAJ&hl=zh-CN), [Ziyang Wang](https://scholar.google.com/citations?hl=en&user=GWF20_wAAAAJ), Jiaju Kang, Mingya Zhang
 
 <p align="center">
     <img src="images/readme/fig1.jpg" style="border-radius: 15px">
