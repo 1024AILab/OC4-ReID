@@ -39,7 +39,7 @@
 
 ### Installation
 
-**Step 1: Clone the VMamba repository**
+**Step 1: Clone the this repository**
 
 To get started, first clone the OC4-ReID repository and navigate to the project directory:
 
