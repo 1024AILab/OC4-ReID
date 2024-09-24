@@ -5,10 +5,10 @@
 
 ## OC<sup>4</sup>-ReID: Occluded Cloth-Changing Person Re-Identification
 
+###  The train code will be available after the paper was accepted !
 
 
-
-### [[Paper](TBD)] 
+### [[Paper](https://arxiv.org/html/2403.08557v4)] 
 
 [Zhihao Chen](https://scholar.google.com/citations?user=SBoHvVQAAAAJ&hl=zh-CN), [Yiyuan Ge](https://scholar.google.com/citations?user=qKxpHGcAAAAJ&hl=zh-CN), [Ziyang Wang](https://scholar.google.com/citations?hl=en&user=GWF20_wAAAAJ), Jiaju Kang, Mingya Zhang
 
@@ -82,4 +82,4 @@ Replace _C.DATA.ROOT and _C.OUTPUT in configs/default_img.py with your own data 
 ## You can download the datasets at: 
 ## https://pan.baidu.com/s/1PH4BzbChuHsXuepA7ke-XA  password：sp4s
 
-## https://pan.baidu.com/s/1Zaf9IMZqHG2w2vk13n4rMQ password：v29n
+## https://pan.baidu.com/s/1Zaf9IMZqHG2w2vk13n4rMQ password：`v29n`
